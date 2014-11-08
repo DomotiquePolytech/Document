@@ -1,4 +1,4 @@
-Document
+Documents
 ========
 
-Documents utiles
+Un repo avec toutes les références utiles pour le projet
